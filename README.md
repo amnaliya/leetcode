@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/amnaliya/leetcode/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/amnaliya/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0912-sort-an-array](https://github.com/amnaliya/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1929-concatenation-of-array](https://github.com/amnaliya/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/amnaliya/leetcode/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/amnaliya/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
