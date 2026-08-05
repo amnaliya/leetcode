@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/amnaliya/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1952-three-divisors](https://github.com/amnaliya/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/amnaliya/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/amnaliya/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amnaliya/leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/amnaliya/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Simulation
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/amnaliya/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/amnaliya/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/amnaliya/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +99,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/amnaliya/leetcode/tree/main/1952-three-divisors/) | Easy |
+| [2427-number-of-common-factors](https://github.com/amnaliya/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/amnaliya/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/amnaliya/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
