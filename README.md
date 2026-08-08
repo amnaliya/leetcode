@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/amnaliya/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/amnaliya/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/amnaliya/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1952-three-divisors](https://github.com/amnaliya/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/amnaliya/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/amnaliya/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
