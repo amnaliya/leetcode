@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/amnaliya/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/amnaliya/leetcode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/amnaliya/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/amnaliya/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0912-sort-an-array](https://github.com/amnaliya/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amnaliya/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/amnaliya/leetcode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/amnaliya/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/amnaliya/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
