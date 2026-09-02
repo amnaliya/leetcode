@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/amnaliya/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/amnaliya/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/amnaliya/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amnaliya/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1952-three-divisors](https://github.com/amnaliya/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2235-add-two-integers](https://github.com/amnaliya/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/amnaliya/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/amnaliya/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/amnaliya/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/amnaliya/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amnaliya/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
