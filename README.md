@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-number-of-common-factors](https://github.com/amnaliya/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amnaliya/leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/amnaliya/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amnaliya/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/amnaliya/leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/amnaliya/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Simulation
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/amnaliya/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amnaliya/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amnaliya/leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amnaliya/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/amnaliya/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
