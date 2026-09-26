@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/amnaliya/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/amnaliya/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amnaliya/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/amnaliya/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amnaliya/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/amnaliya/leetcode/tree/main/2418-sort-the-people/) | Easy |
 ## String Matching
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/amnaliya/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/amnaliya/leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/amnaliya/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2418-sort-the-people](https://github.com/amnaliya/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/amnaliya/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Heap (Priority Queue)
@@ -157,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/amnaliya/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/amnaliya/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
