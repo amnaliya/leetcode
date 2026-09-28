@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/amnaliya/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amnaliya/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/amnaliya/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/amnaliya/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amnaliya/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/amnaliya/leetcode/tree/main/2418-sort-the-people/) | Easy |
 ## String Matching
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/amnaliya/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/amnaliya/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/amnaliya/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -163,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1859-sorting-the-sentence](https://github.com/amnaliya/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/amnaliya/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 <!---LeetCode Topics End-->
