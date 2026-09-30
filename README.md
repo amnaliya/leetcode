@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/amnaliya/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amnaliya/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/amnaliya/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/amnaliya/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amnaliya/leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amnaliya/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/amnaliya/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/amnaliya/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
