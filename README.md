@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amnaliya/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amnaliya/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/amnaliya/leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [2942-find-words-containing-character](https://github.com/amnaliya/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amnaliya/leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amnaliya/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/amnaliya/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2942-find-words-containing-character](https://github.com/amnaliya/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/amnaliya/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
