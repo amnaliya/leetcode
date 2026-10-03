@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amnaliya/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/amnaliya/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/amnaliya/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amnaliya/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amnaliya/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/amnaliya/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amnaliya/leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/amnaliya/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/amnaliya/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/amnaliya/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amnaliya/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/amnaliya/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/amnaliya/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/amnaliya/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amnaliya/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2418-sort-the-people](https://github.com/amnaliya/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/amnaliya/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Heap (Priority Queue)
